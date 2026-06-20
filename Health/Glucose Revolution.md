@@ -8,7 +8,7 @@
   
 ## Part 1: What is Glucose?  
 ###   
-### ==Chapter 1: Enter the Cockpit — Why Glucose is So Important==  
+### Chapter 1: Enter the Cockpit — Why Glucose is So Important  
   
 Glucose serves as our body's prioritized energy source, driving vital cellular functions. However, just like an airplane cockpit, managing this internal system requires maintaining a delicate equilibrium; letting glucose levels surge out of control risks destabilizing our entire metabolic health.  
   

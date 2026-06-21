@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 Part 1: What is Glucose?  
+## 📂 <mark>Part 1: What is Glucose?</mark>  
 
 <details>
 <summary><b>Chapter 1: Enter the Cockpit — Why Glucose is So Important (Click to expand)</b></summary>

@@ -1,5 +1,5 @@
 # Heading 1 
-## Heading 2 ---
+This is the statement ---
 
-**BOLD Statement**
+**BOLD Statement** and *italics*
 ---

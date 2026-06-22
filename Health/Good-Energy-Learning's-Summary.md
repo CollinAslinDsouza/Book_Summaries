@@ -192,6 +192,7 @@ Standard laboratory "normal" ranges are often based on an increasingly sick popu
 <details>
 <summary><b>Chapter 5: The Six Principles of Good Energy (Click to Expand)</b>
 <br>
+
 > Metabolic health is driven by six fundamental laws that treat food as biological data and movement as cellular medicine. By optimizing environmental inputs, managing circadian light, and using muscles as glucose sinks, we can align our daily habits with our cells' evolutionary needs.
 </summary>
 
@@ -206,11 +207,13 @@ Standard laboratory "normal" ranges are often based on an increasingly sick popu
 * **Principle 6 — Environment Determines Cellular Load:** Modern industrial exposures—including environmental toxins, plastics, heavy pollutants, prescription medications, and artificial blue light—increase the cell's operational burden. Minimizing these toxic exposures reduces baseline cellular stress.
 </details>
 
+# Part 3: The Actionable Good Energy Plan 
 <details>
-<summary><b>Part 3: The Actionable Good Energy Plan (Click to Expand)</b>
+<summary><b>(Click to Expand)</b>
 <br>
 > Transitioning from metabolic theory to daily practice requires an integrated, multi-pronged lifestyle strategy. By combining specific food sequencing, distributed movement, circadian light positioning, and consistent biomarker tracking, you can systematically optimize your cellular machinery.
 </summary>
+--- 
 
 ### 1. Daily Food Strategy
 * **Prioritize Whole Foods:** Build your entire diet around unrefined, single-ingredient whole foods while avoiding ultra-processed products.

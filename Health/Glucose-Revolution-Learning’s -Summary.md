@@ -14,8 +14,7 @@
 <br>
 
 > [!Note] Chapter Insights <br>
-
-> Glucose serves as our body's prioritized energy source, driving vital cellular functions. However, just like an airplane cockpit, managing this internal system requires maintaining a delicate equilibrium; letting glucose levels surge out of control risks destabilizing our entire metabolic health.  
+Glucose serves as our body's prioritized energy source, driving vital cellular functions. However, just like an airplane cockpit, managing this internal system requires maintaining a delicate equilibrium; letting glucose levels surge out of control risks destabilizing our entire metabolic health.  
 </summary>
 
 * **The Primary Cellular Fuel:** All living cells inside our bodies fundamentally require a continuous stream of energy to survive, and glucose stands as their prioritized, preferred fuel source.  

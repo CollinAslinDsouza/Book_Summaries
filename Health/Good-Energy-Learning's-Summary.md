@@ -1,11 +1,15 @@
 # Good Energy: The Surprising Connection Between Metabolism and Limitless Health  
-# By Dr. Caesy Means  
-  
-> **The Core Thesis:**
+**By Dr. Caesy Means**  
+---
+> ### The Core Thesis:
 > The biggest lie in modern healthcare is that chronic illness is complicated. Virtually no animals in the wild suffer from widespread chronic disease, yet preventable lifestyle conditions account for **80%** of modern human deaths. The shared root cause of why we are getting sicker, heavier, more depressed, and more infertile is "Bad Energy" systemic cellular and mitochondrial dysfunction. By shifting from an intervention-based, siloed medical model to an energy-centric framework, we can optimize metabolic health, resolve everyday symptoms (fatigue, brain fog, anxiety), and prevent major terminal illnesses.  
-  
- <details>
- <summary><h2>Introduction: Everything Is Connected </h2>
+
+---
+
+<details>
+<summary>
+<b>Introduction: Everything Is Connected(Click to Expand) </b> 
+<br>
 
 > Metabolic health or "Good Energy" is the foundational engine that powers every cell in the human body. Minor, nonlethal daily symptoms are not isolated annoyances; they are early, smoke-alarm warnings of systemic cellular failure that will eventually manifest as severe, chronic disease if the underlying environmental inputs remain unchanged.  
 </summary> 
@@ -33,7 +37,8 @@
 
 
 <details>
-<summaary><h2>Chapter 1: Siloed Health vs. Energy-Centric Health(Click to Expand)</h2>
+<summaary><b>Chapter 1: Siloed Health vs. Energy-Centric Health(Click to Expand)</b>
+<br>
 
 > Modern medicine is highly fragmented, funneling doctors into narrow specialties that treat local symptoms with pharmaceuticals and surgeries while completely ignoring the cellular engine. To truly heal, we must look past localized inflammation and directly address the underlying mitochondrial power failure that forces cells to trigger immune alarms.  
 </summaary>
@@ -84,9 +89,10 @@ Every chronic lifestyle disease is driven by a loop containing three distinct ce
 * **Chronic Inflammation:** Low-energy, fat-choked cells send out persistent chemical distress calls, permanently locking the body's immune system into an aggressive, destructive fighting response.  
 * **Oxidative Stress:** Overburdened cells and failing mitochondria release reactive waste products in the form of **free radicals**. These unstable molecules cause extensive, random structural mutations to DNA and cell membranes.  
 </details>
-  
+
+
 <details>
-<summary><h2>Chapter 2: Bad Energy Is the Root Cause of Disease</h2>  
+<summary><b>Chapter 2: Bad Energy Is the Root Cause of Disease</b>  
 
 > Chronic conditions are not isolated illnesses; they are simply different clinical expressions of the same underlying mitochondrial disaster occurring in different organs. From benign skin conditions to terminal cardiovascular diseases, health exists on a single metabolic spectrum.  
 </summary>
@@ -107,7 +113,7 @@ Every chronic lifestyle disease is driven by a loop containing three distinct ce
 </details>
   
 <details>
-<summary><h2>Chapter 3: Trust Yourself, Not Your Doctor</h2>
+<summary><b>Chapter 3: Trust Yourself, Not Your Doctor</b>
  
 > The modern medical industrial complex is structurally designed to profit from managing chronic diseases rather than curing them. Trapped inside a high-debt, intervention-first model established in the early 1900s, institutions make money when patients remain sick, meaning patients must take independent charge of their own metabolic health.  
 </summary>
@@ -131,7 +137,7 @@ Every chronic lifestyle disease is driven by a loop containing three distinct ce
 # Part 2: Creating Good Energy  
 
 <details>
-<summary><h2>Chapter 4: Your Body Has the Answers</h2> 
+<summary><b>Chapter 4: Your Body Has the Answers</b> 
 
 > The rise of consumer wearables, direct-to-consumer lab testing, and continuous glucose monitors (CGMs) has unlocked a new era of "bio-observability." By tracking your body's real-time metabolic biomarkers, you can independently catch cellular dysfunction years before it manifests as terminal disease.  
   
@@ -186,9 +192,11 @@ Standard laboratory "normal" ranges are often based on an increasingly sick popu
 </details>  
 
 <details>
-<summary><h2>Chapter 5: The Six Principles of Good Energy</h2> 
+<summary><b>Chapter 5: The Six Principles of Good Energy</b> 
   
-> Metabolic health is driven by six fundamental laws that treat food as biological data and movement as cellular medicine. By optimizing environmental inputs, managing circadian light, and using muscles as glucose sinks, we can align our daily habits with our cells' evolutionary needs.  
+> Metabolic health is driven by six fundamental laws that treat food as biological data and movement as cellular medicine. By optimizing environmental inputs, managing circadian light, and using muscles as glucose sinks, we can align our daily habits with our cells' evolutionary needs.
+</summary>
+
 * **Principle 1 — Food Builds Your Cells:** The quality of the food inputs you consume directly dictates the structural quality of your cells. Micronutrients feed your mitochondria, which directly governs your body's total ATP production capacity.  
 * **Principle 2 — Eating Matches Needs to Inputs:** Food must be viewed strictly as a resource to fuel cellular work, not as a tool to manage emotional states. Avoid the trap of chronic over-nutrition, which overtaxes your mitochondrial machinery.  
 * **Principle 3 — Food Is Cellular Communication:** Food is not just calories; it is high-level biological data. Every bite sends direct chemical signals that regulate gene expression, dictate hormone cascades, and either suppress or trigger systemic inflammation.  
@@ -201,10 +209,11 @@ Standard laboratory "normal" ranges are often based on an increasingly sick popu
 </details>
 
 <details>
-<summary><h1>Part 3: The Actionable Good Energy Plan</h1>     
+<summary><b>Part 3: The Actionable Good Energy Plan</b>     
 
 > Transitioning from metabolic theory to daily practice requires an integrated, multi-pronged lifestyle strategy. By combining specific food sequencing, distributed movement, circadian light positioning, and consistent biomarker tracking, you can systematically optimize your cellular machinery.  
-  
+</summary>
+
 ### 1. Daily Food Strategy  
 * **Prioritize Whole Foods:** Build your entire diet around unrefined, single-ingredient whole foods while avoiding ultra-processed products.  
 * **Manage Glycemic Load:** Keep your total glycemic load low to prevent sudden post-prandial glucose spikes exceeding **30 mg/dL**.  

@@ -39,10 +39,11 @@
 # Part 1: Truth About Energy
 
 <details>
-<summary><b>Chapter 1: Siloed Health vs. Energy-Centric Health (Click to Expand)</b></summary>
+<summary><b>Chapter 1: Siloed Health vs. Energy-Centric Health (Click to Expand)</b>
 <br>
 
 > Modern medicine is highly fragmented, funneling doctors into narrow specialties that treat local symptoms with pharmaceuticals and surgeries while completely ignoring the cellular engine. To truly heal, we must look past localized inflammation and directly address the underlying mitochondrial power failure that forces cells to trigger immune alarms.
+</summary>
 
 ### 1. The Structural Flaw of Modern Medicine
 * **The Silo Specialization Trap:** Modern medicine is built entirely on fragmentation. From their very first year of medical training, practitioners are funneled away from a holistic, broad view of the human body (MBBS) into increasingly narrower sub-specialties.
@@ -91,10 +92,11 @@ Every chronic lifestyle disease is driven by a loop containing three distinct ce
 </details>
 
 <details>
-<summary><b>Chapter 2: Bad Energy Is the Root Cause of Disease (Click to Expand)</b></summary>
+<summary><b>Chapter 2: Bad Energy Is the Root Cause of Disease (Click to Expand)</b>
 <br>
 
 > Chronic conditions are not isolated illnesses; they are simply different clinical expressions of the same underlying mitochondrial disaster occurring in different organs. From benign skin conditions to terminal cardiovascular diseases, health exists on a single metabolic spectrum.
+</summary>
 
 ### 1. The Single Spectrum of Illness
 * **The Root Cause Unity:** Everyday symptoms and chronic medical diagnoses are all manifestations of cellular energy failure occurring in different areas of the body. Symptoms do not appear out of thin air; they are the direct, localized result of metabolic dysfunction.
@@ -108,10 +110,11 @@ Every chronic lifestyle disease is driven by a loop containing three distinct ce
 </details>
 
 <details>
-<summary><b>Chapter 3: Trust Yourself, Not Your Doctor (Click to Expand)</b></summary>
+<summary><b>Chapter 3: Trust Yourself, Not Your Doctor (Click to Expand)</b>
 <br>
 
 > The modern medical industrial complex is structurally designed to profit from managing chronic diseases rather than curing them. Trapped inside a high-debt, intervention-first model established in the early 1900s, institutions make money when patients remain sick, meaning patients must take independent charge of their own metabolic health.
+</summary>
 
 ### 1. The Financial Incentives of the Disease Machine
 * **Profiting From Sickness:** Every major institution impacting public health—including medical schools, commercial health insurance firms, major hospital networks, and pharmaceutical corporations—makes money on *managing* chronic diseases, not *curing* them.
@@ -133,10 +136,11 @@ Every chronic lifestyle disease is driven by a loop containing three distinct ce
 # Part 2: Creating Good Energy
 
 <details>
-<summary><b>Chapter 4: Your Body Has the Answers (Click to Expand)</b></summary>
+<summary><b>Chapter 4: Your Body Has the Answers (Click to Expand)</b>
 <br>
 
 > The rise of consumer wearables, direct-to-consumer lab testing, and continuous glucose monitors (CGMs) has unlocked a new era of "bio-observability." By tracking your body's real-time metabolic biomarkers, you can independently catch cellular dysfunction years before it manifests as terminal disease.
+</summary>
 
 ### 1. The Era of Bio-Observability
 * **Defining Bio-Observability:** The ability of an individual to monitor their own internal biology through consumer technologies, including health wearables, continuous monitors, and direct-to-consumer (DTC) lab panels.
@@ -186,8 +190,10 @@ Standard laboratory "normal" ranges are often based on an increasingly sick popu
 </details>
 
 <details>
-<summary><b>Chapter 5: The Six Principles of Good Energy (Click to Expand)</b></summary>
+<summary><b>Chapter 5: The Six Principles of Good Energy (Click to Expand)</b>
 <br>
+> Metabolic health is driven by six fundamental laws that treat food as biological data and movement as cellular medicine. By optimizing environmental inputs, managing circadian light, and using muscles as glucose sinks, we can align our daily habits with our cells' evolutionary needs.
+</summary>
 
 * **Principle 1 — Food Builds Your Cells:** The quality of the food inputs you consume directly dictates the structural quality of your cells. Micronutrients feed your mitochondria, which directly governs your body's total ATP production capacity.
 * **Principle 2 — Eating Matches Needs to Inputs:** Food must be viewed strictly as a resource to fuel cellular work, not as a tool to manage emotional states. Avoid the trap of chronic over-nutrition, which overtaxes your mitochondrial machinery.
@@ -201,8 +207,10 @@ Standard laboratory "normal" ranges are often based on an increasingly sick popu
 </details>
 
 <details>
-<summary><b>Part 3: The Actionable Good Energy Plan (Click to Expand)</b></summary>
+<summary><b>Part 3: The Actionable Good Energy Plan (Click to Expand)</b>
 <br>
+> Transitioning from metabolic theory to daily practice requires an integrated, multi-pronged lifestyle strategy. By combining specific food sequencing, distributed movement, circadian light positioning, and consistent biomarker tracking, you can systematically optimize your cellular machinery.
+</summary>
 
 ### 1. Daily Food Strategy
 * **Prioritize Whole Foods:** Build your entire diet around unrefined, single-ingredient whole foods while avoiding ultra-processed products.
@@ -228,10 +236,11 @@ Standard laboratory "normal" ranges are often based on an increasingly sick popu
 
 # Part 4: Good Energy Kitchen Recipes
 <details>
-<summary><b>Nutrient Profiles & Meal Outlines (Click to Expand)</b></summary>
+<summary><b>Nutrient Profiles & Meal Outlines (Click to Expand)</b>
 <br>
 
 > The final piece of the Good Energy framework translates metabolic principles directly onto your plate. Meals are structured to keep your blood sugar stable, eliminate cravings, and fuel your mitochondria without sacrificing flavor.
+</summary>
 
 * **Proteins and Fiber Over Sugars:** Every recipe is designed around three core criteria:
     * High density of structural proteins to support cellular tissue synthesis.

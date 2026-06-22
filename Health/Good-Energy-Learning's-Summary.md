@@ -10,10 +10,11 @@
 ---
 
 <details>
-<summary><b>Introduction: Everything Is Connected (Click to Expand)</b></summary>
+<summary><b>Introduction: Everything Is Connected (Click to Expand)</b>
 <br>
 
 > Metabolic health or "Good Energy" is the foundational engine that powers every cell in the human body. Minor, nonlethal daily symptoms are not isolated annoyances; they are early, smoke-alarm warnings of systemic cellular failure that will eventually manifest as severe, chronic disease if the underlying environmental inputs remain unchanged.
+</summary>
 
 ## 1. The Paradox of Modern Chronic Disease
 * **The Simplicity of the Root Cause:** The healthcare industry treats conditions like obesity, heart disease, and type 2 diabetes as distinct, complex entities. In reality, they stem from a singular root cause: metabolic dysfunction.

@@ -125,11 +125,12 @@
 ---
 
 ## 📂 Part 3: How to Flatten Glucose Curves
-### The 10 Biological Hacks
-
+<details>
+<summary>### The 10 Biological Hacks
+<br>
 > [!NOTE]
 > You can easily flatten your glucose curves and reclaim your metabolic health by adopting ten simple, actionable lifestyle habits. These hacks strategically alter the timing, order, and composition of your meals to optimize digestion and minimize glycemic impact without requiring restrictive diets.
-
+</summary>
 * **Hack 1: Eat Foods in the Right Order:** Fiber first, Protein second, Fats third, and Carbohydrates/Sugars dead last. This delay slows down gastric emptying and creates a protective mesh in your gut.  
 * **Hack 2: Add a Green Starter to All Your Meals:** Begin meals with raw or cooked greens. Ensure you completely avoid juiced or mashed greens, as these processing methods either completely strip away the fiber or pulverize its molecular structure to total oblivion.  
 * **Hack 3: Stop Counting Calories:** Shift your focus away from raw caloric volume and prioritize calculating the structural value of the underlying molecules entering your body instead.  
@@ -140,3 +141,4 @@
 * **Hack 8: After You Eat, Move:** Utilize your muscles within 10 to 20 minutes of finishing a meal (e.g., a light walk) to soak up excess circulating glucose for fuel without requiring a massive insulin release.  
 * **Hack 9: If You Have to Snack, Go Savory:** Reach exclusively for savory options (such as nuts, boiled eggs, or cheese) instead of sweet items to keep your baseline insulin low.  
 * **Hack 10: Put Some Clothes on Your Carbs:** Never eat "naked" carbohydrates on an empty stomach. Always pair them with a healthy fat, protein, or fiber source to significantly decelerate their absorption 
+</details>

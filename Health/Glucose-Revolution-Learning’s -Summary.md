@@ -13,7 +13,6 @@
 <summary><b>Chapter 1: Enter the Cockpit — Why Glucose is So Important (Click to expand)</b>
 <br>
 
-> Chapter Insights <br>
 > Glucose serves as our body's prioritized energy source, driving vital cellular functions. However, just like an airplane cockpit, managing this internal system requires maintaining a delicate equilibrium; letting glucose levels surge out of control risks destabilizing our entire metabolic health.  
 </summary>
 
@@ -24,9 +23,12 @@
 <details>
 <summary><b>Chapter 2: Meet Jerry — How Plants Create Glucose (Click to expand)</b>
 <br>
-
->[!Note] Chapter Insights 
+ 
 >Plants harness solar energy to synthesize glucose, transforming it into essential structures, storage starches, or ultra-sweet fructose. Understanding these fundamental plant configurations reveals how different carbohydrates are pre-packaged before entering our diet.  
+
+     
+
+
 </summary>
 
 * **The Mechanism of Photosynthesis:** Plants synthesize glucose molecules by combining carbon dioxide from the surrounding air with water pulled from the soil, utilizing the raw energy of the sun.  
@@ -41,7 +43,6 @@
 <summary><b>Chapter 3: A Family Affair — How Glucose Gets into the Bloodstream (Click to expand)</b>
 <br>
 
->[!Note] Chapter Insights 
 >Our digestive tract breaks down dietary carbohydrates into simple sugars that permeate the bloodstream, yet our metabolic response varies wildly based on chemical bonds. While fiber shields us from spikes, and proteins or fats can be converted via the liver, pure starches and sugars flood our system rapidly.  
 </summary>
 
@@ -74,7 +75,7 @@
 <summary><b>1. The Cellular Damage Cascade (Click to expand)</b>
 <br>
 
->[!Note] Chapter Insights
+
 > Repeated glucose spikes plunge our cells into a destructive trifecta of oxidative stress, rapid glycation, and systemic inflammation. This internal chaos overworks the pancreas, traps our bodies in an inescapable fat-storage cycle, and triggers a cascade of debilitating short- and long-term health issues.
 </summary>
 
@@ -112,7 +113,7 @@
 
 ![Glucose Hunger Loop](hunger-cycle.png)
 
->[!Note] Key Insights
+
 > Spikes trigger an aggressive insulin response that shunts glucose into fat cells. This rapid clearing increases the hunger hormone **ghrelin** while simultaneously blocking the satiety hormone **leptin**, trapping individuals in a relentless cycle of overeating. The remedy is not calorie restriction, but lowering insulin by flattening glucose curves.  
 </summary>
 

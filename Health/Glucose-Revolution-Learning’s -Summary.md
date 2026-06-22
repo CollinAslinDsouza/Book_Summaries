@@ -111,7 +111,7 @@
 
 #### The Vicious Cycle of Constant Hunger:  
 
-![Glucose Hunger Loop](hunger-cycle.png)
+![Glucose Hunger Loop](files/hunger-cycle.png)
 
 
 > Spikes trigger an aggressive insulin response that shunts glucose into fat cells. This rapid clearing increases the hunger hormone **ghrelin** while simultaneously blocking the satiety hormone **leptin**, trapping individuals in a relentless cycle of overeating. The remedy is not calorie restriction, but lowering insulin by flattening glucose curves.  

@@ -48,7 +48,7 @@ Each summary includes:
 - **Contagious — Jonah Berger**  
   Why ideas spread, what makes products catch on, and the psychology behind virality.
 
-- **Solve It — (Author)**  
+- **Solve It**  
   A practical breakdown of problem‑solving frameworks and structured thinking.
 
 - **Mastering the Market Cycle — Howard Marks**  
@@ -60,13 +60,8 @@ Each summary includes:
 - **Glucose Revolution — Jessie Inchauspé**  
   How blood sugar impacts energy, cravings, mood, and long‑term health.
 
-- **Good Energy — (Author)**  
+- **Good Energy**  
   A science‑based exploration of metabolism, fatigue, and sustainable energy habits.
-
----
-
-### **📈 Personal Development**
-*(More books will be added as the collection grows.)*
 
 ---
 

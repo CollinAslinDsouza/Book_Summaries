@@ -1,5 +1,6 @@
 # Contagious: Why Things Catch On  
-**By Jonah Berger** ---
+**By Jonah Berger** 
+---
 
 > ### 💡 The Core Thesis
 > Virality is not born from a multi-million dollar advertising budget or pure luck; instead, it is a rigorous engineering problem driven by the science of social transmission. By deliberately structuring a product, idea, or message around the six core STEPPS (Social Currency, Triggers, Emotion, Public, Practical Value, and Stories), brands can compel everyday consumers to organic, offline, and online word-of-mouth marketing—transforming ordinary products into self-propagating cultural phenomena.

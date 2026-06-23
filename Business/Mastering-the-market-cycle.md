@@ -219,7 +219,7 @@
 >     * **Insight:** If you have cash when credit disappears, you can buy high-quality assets at "liquidation prices" from desperate sellers.
 </details>
 
-<b>Chapter 10: Distressed Debt Cycle (Click to expand)</b>
+<b>Chapter 10: Distressed Debt Cycle</b>
 <br>
 > Downturn in market cycle or recession closes the credit market, therefore refinancing of debt becomes more difficult. This provides an opportunity to invest in high quality companies with lower risks and great returns.
 

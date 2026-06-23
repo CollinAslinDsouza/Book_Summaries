@@ -1,20 +1,20 @@
 # Good Energy: The Surprising Connection Between Metabolism and Limitless Health
-**By Dr. Caesy Means**
-
+**By Dr. Caesy Means** 
 ---
 
-> [!IMPORTANT]
-> ### 💡 The Core Thesis
-> The biggest lie in modern healthcare is that chronic illness is complicated. Virtually no animals in the wild suffer from widespread chronic disease, yet preventable lifestyle conditions account for **80%** of modern human deaths. The shared root cause of why we are getting sicker, heavier, more depressed, and more infertile is "Bad Energy"—systemic cellular and mitochondrial dysfunction. By shifting from an intervention-based, siloed medical model to an energy-centric framework, we can optimize metabolic health, resolve everyday symptoms (fatigue, brain fog, anxiety), and prevent major terminal illnesses.
 
+> [!NOTE] The Core Thesis: 
+> The biggest lie in modern healthcare is that chronic illness is complicated. Virtually no animals in the wild suffer from widespread chronic disease, yet preventable lifestyle conditions account for 80% of modern human deaths. The shared root cause of why we are getting sicker, heavier, more depressed, and more infertile is "Bad Energy" systemic cellular and mitochondrial dysfunction. By shifting from an intervention-based, siloed medical model to an energy-centric framework, we can optimize metabolic health, resolve everyday symptoms (fatigue, brain fog, anxiety), and prevent major terminal illnesses.
+ 
 ---
 
 <details>
-<summary><b>Introduction: Everything Is Connected (Click to Expand)</b>
-<br>
+<summary><font size="5"><b>Introduction: Everything Is Connected</b></font>
 
 > Metabolic health or "Good Energy" is the foundational engine that powers every cell in the human body. Minor, nonlethal daily symptoms are not isolated annoyances; they are early, smoke-alarm warnings of systemic cellular failure that will eventually manifest as severe, chronic disease if the underlying environmental inputs remain unchanged.
 </summary>
+
+---
 
 ## 1. The Paradox of Modern Chronic Disease
 * **The Simplicity of the Root Cause:** The healthcare industry treats conditions like obesity, heart disease, and type 2 diabetes as distinct, complex entities. In reality, they stem from a singular root cause: metabolic dysfunction.
@@ -44,6 +44,8 @@
 
 > Modern medicine is highly fragmented, funneling doctors into narrow specialties that treat local symptoms with pharmaceuticals and surgeries while completely ignoring the cellular engine. To truly heal, we must look past localized inflammation and directly address the underlying mitochondrial power failure that forces cells to trigger immune alarms.
 </summary>
+
+---
 
 ### 1. The Structural Flaw of Modern Medicine
 * **The Silo Specialization Trap:** Modern medicine is built entirely on fragmentation. From their very first year of medical training, practitioners are funneled away from a holistic, broad view of the human body (MBBS) into increasingly narrower sub-specialties.
@@ -91,12 +93,16 @@ Every chronic lifestyle disease is driven by a loop containing three distinct ce
 * **Oxidative Stress:** Overburdened cells and failing mitochondria release reactive waste products in the form of **free radicals**. These unstable molecules cause extensive, random structural mutations to DNA and cell membranes.
 </details>
 
+---
+
 <details>
 <summary><b>Chapter 2: Bad Energy Is the Root Cause of Disease (Click to Expand)</b>
 <br>
 
 > Chronic conditions are not isolated illnesses; they are simply different clinical expressions of the same underlying mitochondrial disaster occurring in different organs. From benign skin conditions to terminal cardiovascular diseases, health exists on a single metabolic spectrum.
 </summary>
+
+---
 
 ### 1. The Single Spectrum of Illness
 * **The Root Cause Unity:** Everyday symptoms and chronic medical diagnoses are all manifestations of cellular energy failure occurring in different areas of the body. Symptoms do not appear out of thin air; they are the direct, localized result of metabolic dysfunction.
@@ -109,12 +115,16 @@ Every chronic lifestyle disease is driven by a loop containing three distinct ce
 > * **Late-Stage Organ Failure (Acute & Terminal Pathologies):** Type 2 Diabetes, Advanced Dementia, Atherosclerosis, Ischemic Stroke, Malignant Cancer.
 </details>
 
+---
+
 <details>
 <summary><b>Chapter 3: Trust Yourself, Not Your Doctor (Click to Expand)</b>
 <br>
 
 > The modern medical industrial complex is structurally designed to profit from managing chronic diseases rather than curing them. Trapped inside a high-debt, intervention-first model established in the early 1900s, institutions make money when patients remain sick, meaning patients must take independent charge of their own metabolic health.
 </summary>
+
+---
 
 ### 1. The Financial Incentives of the Disease Machine
 * **Profiting From Sickness:** Every major institution impacting public health—including medical schools, commercial health insurance firms, major hospital networks, and pharmaceutical corporations—makes money on *managing* chronic diseases, not *curing* them.
@@ -141,6 +151,8 @@ Every chronic lifestyle disease is driven by a loop containing three distinct ce
 
 > The rise of consumer wearables, direct-to-consumer lab testing, and continuous glucose monitors (CGMs) has unlocked a new era of "bio-observability." By tracking your body's real-time metabolic biomarkers, you can independently catch cellular dysfunction years before it manifests as terminal disease.
 </summary>
+
+---
 
 ### 1. The Era of Bio-Observability
 * **Defining Bio-Observability:** The ability of an individual to monitor their own internal biology through consumer technologies, including health wearables, continuous monitors, and direct-to-consumer (DTC) lab panels.
@@ -196,6 +208,8 @@ Standard laboratory "normal" ranges are often based on an increasingly sick popu
 > Metabolic health is driven by six fundamental laws that treat food as biological data and movement as cellular medicine. By optimizing environmental inputs, managing circadian light, and using muscles as glucose sinks, we can align our daily habits with our cells' evolutionary needs.
 </summary>
 
+---
+
 * **Principle 1 — Food Builds Your Cells:** The quality of the food inputs you consume directly dictates the structural quality of your cells. Micronutrients feed your mitochondria, which directly governs your body's total ATP production capacity.
 * **Principle 2 — Eating Matches Needs to Inputs:** Food must be viewed strictly as a resource to fuel cellular work, not as a tool to manage emotional states. Avoid the trap of chronic over-nutrition, which overtaxes your mitochondrial machinery.
 * **Principle 3 — Food Is Cellular Communication:** Food is not just calories; it is high-level biological data. Every bite sends direct chemical signals that regulate gene expression, dictate hormone cascades, and either suppress or trigger systemic inflammation.
@@ -210,9 +224,10 @@ Standard laboratory "normal" ranges are often based on an increasingly sick popu
 # Part 3: The Actionable Good Energy Plan 
 <details>
 <summary><b>(Click to Expand)</b>
-<br>
+
 > Transitioning from metabolic theory to daily practice requires an integrated, multi-pronged lifestyle strategy. By combining specific food sequencing, distributed movement, circadian light positioning, and consistent biomarker tracking, you can systematically optimize your cellular machinery.
 </summary>
+
 --- 
 
 ### 1. Daily Food Strategy
@@ -240,10 +255,11 @@ Standard laboratory "normal" ranges are often based on an increasingly sick popu
 # Part 4: Good Energy Kitchen Recipes
 <details>
 <summary><b>Nutrient Profiles & Meal Outlines (Click to Expand)</b>
-<br>
 
 > The final piece of the Good Energy framework translates metabolic principles directly onto your plate. Meals are structured to keep your blood sugar stable, eliminate cravings, and fuel your mitochondria without sacrificing flavor.
 </summary>
+
+---
 
 * **Proteins and Fiber Over Sugars:** Every recipe is designed around three core criteria:
     * High density of structural proteins to support cellular tissue synthesis.

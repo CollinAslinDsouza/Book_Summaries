@@ -3,7 +3,7 @@
 ---
 
 
-> [!NOTE] The Core Thesis: 
+> [!NOTE] Core Thesis:
 > The biggest lie in modern healthcare is that chronic illness is complicated. Virtually no animals in the wild suffer from widespread chronic disease, yet preventable lifestyle conditions account for 80% of modern human deaths. The shared root cause of why we are getting sicker, heavier, more depressed, and more infertile is "Bad Energy" systemic cellular and mitochondrial dysfunction. By shifting from an intervention-based, siloed medical model to an energy-centric framework, we can optimize metabolic health, resolve everyday symptoms (fatigue, brain fog, anxiety), and prevent major terminal illnesses.
  
 ---
